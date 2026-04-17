@@ -1,0 +1,19 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+/.idea/
+/target/
+/out/
+
+# HTML / CSS / JS
+node_modules/
+*.log
+/dist/
+/*.tmp
+
+# SQL
+*.db
+*.sql~
